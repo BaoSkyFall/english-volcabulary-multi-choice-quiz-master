@@ -6,12 +6,11 @@ import logo from './svg/logo.svg';
 import * as ENUM from './constant/enum';
 import * as _ from 'lodash';
 import "antd/dist/antd.css";
-import { Modal, Form, Button, Slider } from 'antd';
+import { Modal, Form, Slider } from 'antd';
 import {
   SettingOutlined
 } from '@ant-design/icons';
 import './App.css';
-import { set } from 'lodash';
 
 const layout = {
   labelCol: {
@@ -21,12 +20,7 @@ const layout = {
     span: 16,
   },
 };
-const tailLayout = {
-  wrapperCol: {
-    offset: 8,
-    span: 16,
-  },
-};
+
 
 const marks = {
   0: '0',
@@ -83,7 +77,7 @@ class App extends Component {
   componentDidMount() {
     const setting = (localStorage.getItem('settings'))
     let totalQuestions = this.state.totalQuestions;
-    let range = this.state.range;
+    // let range = this.state.range;
 
     if (setting) {
       const value = JSON.parse(setting);
