@@ -6,6 +6,7 @@
 .App-header-questions {
   background-color: #222;
   padding: 20px;
+  padding-bottom: 15px;
   color: white;
   text-align: center;
 }
@@ -18,6 +19,7 @@
 .App-header-questions .anticon {
   font-size: 20px;
   cursor: pointer;
+  margin-right: 12px;
 }
 
 .App-intro {

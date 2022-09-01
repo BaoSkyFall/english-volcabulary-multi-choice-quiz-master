@@ -6,9 +6,10 @@ import logo from './svg/logo.svg';
 import * as ENUM from './constant/enum';
 import * as _ from 'lodash';
 import "antd/dist/antd.css";
-import { Modal, Form, Slider } from 'antd';
+import { Modal, Form, Slider, Tooltip } from 'antd';
 import {
-  SettingOutlined
+  SettingOutlined,
+  UndoOutlined
 } from '@ant-design/icons';
 import './App.css';
 
@@ -21,7 +22,17 @@ const layout = {
   },
 };
 
-
+const defaultState = {
+  counter: 0,
+  questionId: 1,
+  question: '',
+  answerOptions: [],
+  answer: '',
+  answersCount: {},
+  totalAnswersUser: [],
+  result: null,
+  isModalVisible: false,
+}
 const marks = {
   0: '0',
   10: '100',
@@ -46,15 +57,7 @@ class App extends Component {
     super(props);
 
     this.state = {
-      counter: 0,
-      questionId: 1,
-      question: '',
-      answerOptions: [],
-      answer: '',
-      answersCount: {},
-      totalAnswersUser: [],
-      result: null,
-      isModalVisible: false,
+      ...defaultState,
       totalQuestions: 10,
       range: [0, 10],
       totalAnswer: 5,
@@ -106,7 +109,6 @@ class App extends Component {
 
 
     this.generateWrongAnswer()
-    this.quizQuestionsGenerateRaw = _.cloneDeep(this.quizQuestionsGenerate)
     this.quizQuestionsGenerate = _.slice(this.quizQuestionsGenerate, 0, totalQuestions)
     this.setState({
       question: this.quizQuestionsGenerate[0].question,
@@ -123,6 +125,7 @@ class App extends Component {
         question.answers = _.shuffle(question.answers)
         return question
       })
+      this.quizQuestionsGenerateRaw = _.cloneDeep(this.quizQuestionsGenerate)
       this.quizQuestionsGenerate = this.shuffleArray(this.quizQuestionsGenerate)
     }
 
@@ -234,12 +237,13 @@ class App extends Component {
   }
   handleOk() {
     const value = this.formRef.current.getFieldsValue();
-    this.quizQuestionsGenerate = _.slice(this.quizQuestionsGenerateRaw, 0, value.totalQuestions)
+    this.quizQuestionsGenerate = this.shuffleArray(this.quizQuestionsGenerate)
+    this.quizQuestionsGenerate = _.slice(this.quizQuestionsGenerate, 0, value.totalQuestions)
     localStorage.setItem('settings', JSON.stringify(value))
     this.setState({
+      ...defaultState,
       range: value.range,
       totalQuestions: value.totalQuestions,
-      isModalVisible: false,
       question: this.quizQuestionsGenerate[0].question,
       answerOptions: this.quizQuestionsGenerate[0].answers
     });
@@ -267,13 +271,27 @@ class App extends Component {
       range: this.state.range
     }), 100)
   }
+  restart() {
+    this.quizQuestionsGenerate = this.shuffleArray(this.quizQuestionsGenerate)
+    this.quizQuestionsGenerate = _.slice(this.quizQuestionsGenerate, 0, this.state.totalQuestions)
+    this.setState({
+      ...defaultState,
+      question: this.quizQuestionsGenerate[0].question,
+      answerOptions: this.quizQuestionsGenerate[0].answers
+    });
+  }
   render() {
     return (
       <div className="App">
         <div className="App-header-questions">
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Vocalbulary Multiple Choice</h2>
-          <SettingOutlined onClick={() => this.openSetting()} />
+          <Tooltip placement="bottom" title="Settings">
+            <SettingOutlined onClick={() => this.openSetting()} />
+          </Tooltip>
+          <Tooltip placement="bottom" title="Reset">
+            <UndoOutlined onClick={() => this.restart()} />
+          </Tooltip>
         </div>
         {this.state.result ? this.renderResult() : this.renderQuiz()}
 
