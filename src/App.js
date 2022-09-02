@@ -106,18 +106,21 @@ class App extends Component {
         })
       }
     }
+    setTimeout(() => {
+      this.generateWrongAnswer()
+      this.quizQuestionsGenerate = _.slice(this.quizQuestionsGenerate, 0, totalQuestions)
+      this.setState({
+        question: this.quizQuestionsGenerate[0].question,
+        answerOptions: this.quizQuestionsGenerate[0].answers
+      });
+    }, 100)
 
-
-    this.generateWrongAnswer()
-    this.quizQuestionsGenerate = _.slice(this.quizQuestionsGenerate, 0, totalQuestions)
-    this.setState({
-      question: this.quizQuestionsGenerate[0].question,
-      answerOptions: this.quizQuestionsGenerate[0].answers
-    });
   }
   generateWrongAnswer() {
     if (quizQuestions) {
-      this.quizQuestionsGenerate = quizQuestions.map(question => {
+      const quizQuestionsTemp = _.slice(_.cloneDeep(quizQuestions), this.state.range[0] * 10, this.state.range[1] * 10);
+
+      this.quizQuestionsGenerate = quizQuestionsTemp.map(question => {
         for (let i = 0; i < ENUM.TOTAL_WRONG_ANSWER - 1; i++) {
           const answerWrong = this.randomWrongAnswer(question);
           question.answers.push(answerWrong)
