@@ -1,4 +1,4 @@
-var quizQuestions = [
+wvar quizQuestions = [
     {
         id: 1,
         question: "What is Practical?",
@@ -2622,6 +2622,1572 @@ var quizQuestions = [
                 correct: true,
                 content: "Đụng xe / Đánh đập",
                 type: "Đụng xe / Đánh đập "
+            }
+        ]
+    },
+    {
+        id: 313,
+        question: "What is Substance ?",
+        word: "Substance",
+        answers: [
+            {
+                id: 313,
+                correct: true,
+                content: "Vật chất (vật lý)",
+                type: "Vật chất (vật lý) "
+            }
+        ]
+    },
+    {
+        id: 314,
+        question: "What is Illustrate ?",
+        word: "Illustrate",
+        answers: [
+            {
+                id: 314,
+                correct: true,
+                content: "Minh họa, thể hiện",
+                type: "Minh họa, thể hiện "
+            }
+        ]
+    },
+
+    {
+        id: 315,
+        question: "What is Coupon ?",
+        word: "Coupon",
+        answers: [
+            {
+                id: 315,
+                correct: true,
+                content: "Phiếu giảm giá",
+                type: "Phiếu giảm giá "
+            }
+        ]
+    },
+
+    {
+        id: 204,
+        question: "What is Start at the bottom. ?",
+        word: "Start at the bottom.",
+        answers: [
+            {
+                id: 204,
+                correct: true,
+                content: "Bắt đầu từ con số 0",
+                type: "Bắt đầu từ con số 0 "
+            }
+        ]
+    },
+
+    {
+        id: 205,
+        question: "What is Expect ?",
+        word: "Expect",
+        answers: [
+            {
+                id: 205,
+                correct: true,
+                content: "Mong đợi",
+                type: "Mong đợi "
+            }
+        ]
+    },
+
+    {
+        id: 206,
+        question: "What is Dental appointment ?",
+        word: "Dental appointment",
+        answers: [
+            {
+                id: 206,
+                correct: true,
+                content: "Hẹn khám răng, hẹn  nha khoa",
+                type: "Hẹn khám răng, hẹn  nha khoa "
+            }
+        ]
+    },
+
+    {
+        id: 207,
+        question: "What is Be drowned ?",
+        word: "Be drowned",
+        answers: [
+            {
+                id: 207,
+                correct: true,
+                content: "Bị chìm, bị chết đuối,  đuối nước",
+                type: "Bị chìm, bị chết đuối,  đuối nước "
+            }
+        ]
+    },
+
+    {
+        id: 208,
+        question: "What is Sunbathe ?",
+        word: "Sunbathe",
+        answers: [
+            {
+                id: 208,
+                correct: true,
+                content: "Tắm nắng",
+                type: "Tắm nắng "
+            }
+        ]
+    },
+
+    {
+        id: 209,
+        question: "What is Conference call ?",
+        word: "Conference call",
+        answers: [
+            {
+                id: 209,
+                correct: true,
+                content: "Họp trực tuyến",
+                type: "Họp trực tuyến "
+            }
+        ]
+    },
+
+    {
+        id: 210,
+        question: "What is Forecast ?",
+        word: "Forecast",
+        answers: [
+            {
+                id: 210,
+                correct: true,
+                content: "Dự báo, dự đoán",
+                type: "Dự báo, dự đoán "
+            }
+        ]
+    },
+
+    {
+        id: 211,
+        question: "What is Downtown ?",
+        word: "Downtown",
+        answers: [
+            {
+                id: 211,
+                correct: true,
+                content: "Trung tâm thành phố",
+                type: "Trung tâm thành phố "
+            }
+        ]
+    },
+
+    {
+        id: 212,
+        question: "What is Congratulations ?",
+        word: "Congratulations",
+        answers: [
+            {
+                id: 212,
+                correct: true,
+                content: "Xin chúc mừng, lời chúc  mừng",
+                type: "Xin chúc mừng, lời chúc  mừng "
+            }
+        ]
+    },
+
+    {
+        id: 213,
+        question: "What is Job offer ?",
+        word: "Job offer",
+        answers: [
+            {
+                id: 213,
+                correct: true,
+                content: "Đề nghị làm việc",
+                type: "Đề nghị làm việc "
+            }
+        ]
+    },
+
+    {
+        id: 214,
+        question: "What is Salary ?",
+        word: "Salary",
+        answers: [
+            {
+                id: 214,
+                correct: true,
+                content: "Tiền lương",
+                type: "Tiền lương "
+            }
+        ]
+    },
+
+    {
+        id: 215,
+        question: "What is Publishing firm ?",
+        word: "Publishing firm",
+        answers: [
+            {
+                id: 215,
+                correct: true,
+                content: "Công ty xuất bản, nhà  xuất bản",
+                type: "Công ty xuất bản, nhà  xuất bản "
+            }
+        ]
+    },
+
+    {
+        id: 216,
+        question: "What is What are you doing  with yourself? ?",
+        word: "What are you doing  with yourself?",
+        answers: [
+            {
+                id: 216,
+                correct: true,
+                content: "Bạn đang làm gì (hỏi  nghề nghiệp) ?",
+                type: "Bạn đang làm gì (hỏi  nghề nghiệp) ? "
+            }
+        ]
+    },
+
+    {
+        id: 217,
+        question: "What is Chiropractor ?",
+        word: "Chiropractor",
+        answers: [
+            {
+                id: 217,
+                correct: true,
+                content: "Bác sĩ chỉnh hình",
+                type: "Bác sĩ chỉnh hình "
+            }
+        ]
+    },
+
+    {
+        id: 218,
+        question: "What is Medical school ?",
+        word: "Medical school",
+        answers: [
+            {
+                id: 218,
+                correct: true,
+                content: "Trường y",
+                type: "Trường y "
+            }
+        ]
+    },
+
+    {
+        id: 219,
+        question: "What is Earn ?",
+        word: "Earn",
+        answers: [
+            {
+                id: 219,
+                correct: true,
+                content: "Kiếm tiền",
+                type: "Kiếm tiền "
+            }
+        ]
+    },
+
+    {
+        id: 220,
+        question: "What is Megabucks ?",
+        word: "Megabucks",
+        answers: [
+            {
+                id: 220,
+                correct: true,
+                content: "Rất nhiều tiền",
+                type: "Rất nhiều tiền "
+            }
+        ]
+    },
+
+    {
+        id: 221,
+        question: "What is Pharmaceutical ?",
+        word: "Pharmaceutical",
+        answers: [
+            {
+                id: 221,
+                correct: true,
+                content: "Thuộc về dược",
+                type: "Thuộc về dược "
+            }
+        ]
+    },
+
+    {
+        id: 222,
+        question: "What is Medicine ?",
+        word: "Medicine",
+        answers: [
+            {
+                id: 222,
+                correct: true,
+                content: "Dược phẩm",
+                type: "Dược phẩm "
+            }
+        ]
+    },
+
+    {
+        id: 223,
+        question: "What is A couple of ?",
+        word: "A couple of",
+        answers: [
+            {
+                id: 223,
+                correct: true,
+                content: "Một vài / Hai",
+                type: "Một vài / Hai "
+            }
+        ]
+    },
+
+    {
+        id: 224,
+        question: "What is How on earth… ?",
+        word: "How on earth…",
+        answers: [
+            {
+                id: 224,
+                correct: true,
+                content: "Biểu thị sự kinh ngạc",
+                type: "Biểu thị sự kinh ngạc "
+            }
+        ]
+    },
+
+    {
+        id: 225,
+        question: "What is Afford ?",
+        word: "Afford",
+        answers: [
+            {
+                id: 225,
+                correct: true,
+                content: "Có thể mua được, chi  trả được",
+                type: "Có thể mua được, chi  trả được "
+            }
+        ]
+    },
+
+    {
+        id: 226,
+        question: "What is Settle down ?",
+        word: "Settle down",
+        answers: [
+            {
+                id: 226,
+                correct: true,
+                content: "Ổn định (ý là ở lại một  vài nơi trong một khoảng thời gian)",
+                type: "Ổn định (ý là ở lại một  vài nơi trong một khoảng thời gian)"
+            }
+        ]
+    },
+
+    {
+        id: 227,
+        question: "What is Luxurious ?",
+        word: "Luxurious",
+        answers: [
+            {
+                id: 227,
+                correct: true,
+                content: "Sang trọng (xa xỉ)",
+                type: "Sang trọng (xa xỉ) "
+            }
+        ]
+    },
+
+    {
+        id: 228,
+        question: "What is Competitive ?",
+        word: "Competitive",
+        answers: [
+            {
+                id: 228,
+                correct: true,
+                content: "Cạnh tranh, ganh đua",
+                type: "Cạnh tranh, ganh đua "
+            }
+        ]
+    },
+
+    {
+        id: 229,
+        question: "What is Paper ?",
+        word: "Paper",
+        answers: [
+            {
+                id: 229,
+                correct: true,
+                content: "Tờ báo",
+                type: "Tờ báo "
+            }
+        ]
+    },
+
+    {
+        id: 230,
+        question: "What is Fancy ?",
+        word: "Fancy",
+        answers: [
+            {
+                id: 230,
+                correct: true,
+                content: "Khao khát, thèm muốn,  yêu thích",
+                type: "Khao khát, thèm muốn,  yêu thích "
+            }
+        ]
+    },
+
+    {
+        id: 231,
+        question: "What is Journalism ?",
+        word: "Journalism",
+        answers: [
+            {
+                id: 231,
+                correct: true,
+                content: "Báo chí",
+                type: "Báo chí "
+            }
+        ]
+    },
+
+    {
+        id: 232,
+        question: "What is Workload ?",
+        word: "Workload",
+        answers: [
+            {
+                id: 232,
+                correct: true,
+                content: "Khối lượng công việc",
+                type: "Khối lượng công việc "
+            }
+        ]
+    },
+
+    {
+        id: 233,
+        question: "What is Tuition ?",
+        word: "Tuition",
+        answers: [
+            {
+                id: 233,
+                correct: true,
+                content: "Học phí",
+                type: "Học phí "
+            }
+        ]
+    },
+
+    {
+        id: 234,
+        question: "What is Employer ?",
+        word: "Employer",
+        answers: [
+            {
+                id: 234,
+                correct: true,
+                content: "Người chủ, người sử dụng lao động",
+                type: "Người chủ, người sử dụng lao động"
+            }
+        ]
+    },
+
+    {
+        id: 235,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 235,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 236,
+        question: "What is Get to sb ?",
+        word: "Get to sb",
+        answers: [
+            {
+                id: 236,
+                correct: true,
+                content: "Gây khó chịu, ảnh ",
+                type: "hưởng xấu "
+            }
+        ]
+    },
+
+    {
+        id: 237,
+        question: "What is Turn out to be ?",
+        word: "Turn out to be",
+        answers: [
+            {
+                id: 237,
+                correct: true,
+                content: "Được phát hiện ra, được  chứng mình như thế nào",
+                type: "Được phát hiện ra, được  chứng mình như thế nào"
+            }
+        ]
+    },
+
+    {
+        id: 238,
+        question: "What is Apparently ?",
+        word: "Apparently",
+        answers: [
+            {
+                id: 238,
+                correct: true,
+                content: "Rõ ràng",
+                type: "Rõ ràng "
+            }
+        ]
+    },
+
+    {
+        id: 239,
+        question: "What is Firefighters ?",
+        word: "Firefighters",
+        answers: [
+            {
+                id: 239,
+                correct: true,
+                content: "Lính cứu hỏa",
+                type: "Lính cứu hỏa "
+            }
+        ]
+    },
+
+    {
+        id: 240,
+        question: "What is Put sth out ?",
+        word: "Put sth out",
+        answers: [
+            {
+                id: 240,
+                correct: true,
+                content: "Dập lửa",
+                type: "Dập lửa "
+            }
+        ]
+    },
+
+    {
+        id: 241,
+        question: "What is Glacier ?",
+        word: "Glacier",
+        answers: [
+            {
+                id: 241,
+                correct: true,
+                content: "Sông băng",
+                type: "Sông băng "
+            }
+        ]
+    },
+
+    {
+        id: 242,
+        question: "What is Frankly ?",
+        word: "Frankly",
+        answers: [
+            {
+                id: 242,
+                correct: true,
+                content: "Thành thực thì",
+                type: "Thành thực thì "
+            }
+        ]
+    },
+
+    {
+        id: 243,
+        question: "What is Scorcher ?",
+        word: "Scorcher",
+        answers: [
+            {
+                id: 243,
+                correct: true,
+                content: "Nóng vl",
+                type: "Nóng vl "
+            }
+        ]
+    },
+
+    {
+        id: 244,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 244,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 245,
+        question: "What is Due to ?",
+        word: "Due to",
+        answers: [
+            {
+                id: 245,
+                correct: true,
+                content: "Bởi vì",
+                type: "Bởi vì "
+            }
+        ]
+    },
+
+    {
+        id: 246,
+        question: "What is Due ?",
+        word: "Due",
+        answers: [
+            {
+                id: 246,
+                correct: true,
+                content: "Đến bạn",
+                type: "Đến bạn "
+            }
+        ]
+    },
+
+    {
+        id: 247,
+        question: "What is Greenhouse gas ?",
+        word: "Greenhouse gas",
+        answers: [
+            {
+                id: 247,
+                correct: true,
+                content: "Khí nhà kính",
+                type: "Khí nhà kính "
+            }
+        ]
+    },
+
+    {
+        id: 248,
+        question: "What is Forces ?",
+        word: "Forces",
+        answers: [
+            {
+                id: 248,
+                correct: true,
+                content: "Sự tác động, động lực",
+                type: "Sự tác động, động lực "
+            }
+        ]
+    },
+
+    {
+        id: 249,
+        question: "What is Cyclical ?",
+        word: "Cyclical",
+        answers: [
+            {
+                id: 249,
+                correct: true,
+                content: "Theo chu kỳ",
+                type: "Theo chu kỳ "
+            }
+        ]
+    },
+
+    {
+        id: 250,
+        question: "What is Evidence ?",
+        word: "Evidence",
+        answers: [
+            {
+                id: 250,
+                correct: true,
+                content: "Bằng chứng",
+                type: "Bằng chứng "
+            }
+        ]
+    },
+
+    {
+        id: 251,
+        question: "What is Put sth down to sb ?",
+        word: "Put sth down to sb",
+        answers: [
+            {
+                id: 251,
+                correct: true,
+                content: "Đổ lỗi; quy trách nhiệm  cho ai",
+                type: "Đổ lỗi; quy trách nhiệm  cho ai "
+            }
+        ]
+    },
+
+    {
+        id: 252,
+        question: "What is Irresponsible ?",
+        word: "Irresponsible",
+        answers: [
+            {
+                id: 252,
+                correct: true,
+                content: "Thiếu trách nhiệm",
+                type: "Thiếu trách nhiệm "
+            }
+        ]
+    },
+
+    {
+        id: 253,
+        question: "What is Widespread ?",
+        word: "Widespread",
+        answers: [
+            {
+                id: 253,
+                correct: true,
+                content: "Phổ biến rộng rãi",
+                type: "Phổ biến rộng rãi "
+            }
+        ]
+    },
+
+    {
+        id: 254,
+        question: "What is Argument ?",
+        word: "Argument",
+        answers: [
+            {
+                id: 254,
+                correct: true,
+                content: "Tranh luận",
+                type: "Tranh luận "
+            }
+        ]
+    },
+
+    {
+        id: 255,
+        question: "What is Drought ?",
+        word: "Drought",
+        answers: [
+            {
+                id: 255,
+                correct: true,
+                content: "Hạn hán; khô cạn",
+                type: "Hạn hán; khô cạn "
+            }
+        ]
+    },
+
+    {
+        id: 256,
+        question: "What is Crop failure ?",
+        word: "Crop failure",
+        answers: [
+            {
+                id: 256,
+                correct: true,
+                content: "Mất mùa",
+                type: "Mất mùa "
+            }
+        ]
+    },
+
+    {
+        id: 257,
+        question: "What is Scarce ?",
+        word: "Scarce",
+        answers: [
+            {
+                id: 257,
+                correct: true,
+                content: "Khan hiếm",
+                type: "Khan hiếm "
+            }
+        ]
+    },
+
+    {
+        id: 258,
+        question: "What is Affect ?",
+        word: "Affect",
+        answers: [
+            {
+                id: 258,
+                correct: true,
+                content: "Có ảnh hưởng đến",
+                type: "Có ảnh hưởng đến "
+            }
+        ]
+    },
+
+    {
+        id: 259,
+        question: "What is Recede ?",
+        word: "Recede",
+        answers: [
+            {
+                id: 259,
+                correct: true,
+                content: "Biến mất",
+                type: "Biến mất "
+            }
+        ]
+    },
+
+    {
+        id: 260,
+        question: "What is In doubt ?",
+        word: "In doubt",
+        answers: [
+            {
+                id: 260,
+                correct: true,
+                content: "Nghi ngờ",
+                type: "Nghi ngờ "
+            }
+        ]
+    },
+
+    {
+        id: 261,
+        question: "What is Have smt in common ?",
+        word: "Have smt in common",
+        answers: [
+            {
+                id: 261,
+                correct: true,
+                content: "Có điểm chung, tương  đồng",
+                type: "Có điểm chung, tương  đồng "
+            }
+        ]
+    },
+
+    {
+        id: 262,
+        question: "What is To suffer from ?",
+        word: "To suffer from",
+        answers: [
+            {
+                id: 262,
+                correct: true,
+                content: "Chịu đựng; bị (bệnh)",
+                type: "Chịu đựng; bị (bệnh) "
+            }
+        ]
+    },
+
+    {
+        id: 263,
+        question: "What is Chronic ?",
+        word: "Chronic",
+        answers: [
+            {
+                id: 263,
+                correct: true,
+                content: "Kéo dài / kinh niên",
+                type: "Kéo dài / kinh niên "
+            }
+        ]
+    },
+
+    {
+        id: 264,
+        question: "What is All walk of life ?",
+        word: "All walk of life",
+        answers: [
+            {
+                id: 264,
+                correct: true,
+                content: "Mọi tầng lớp xã hội",
+                type: "Mọi tầng lớp xã hội "
+            }
+        ]
+    },
+
+    {
+        id: 265,
+        question: "What is Incapacitate ?",
+        word: "Incapacitate",
+        answers: [
+            {
+                id: 265,
+                correct: true,
+                content: "Mất khả năng",
+                type: "Mất khả năng "
+            }
+        ]
+    },
+
+    {
+        id: 266,
+        question: "What is The majority of ?",
+        word: "The majority of",
+        answers: [
+            {
+                id: 266,
+                correct: true,
+                content: "Đa số",
+                type: "Đa số "
+            }
+        ]
+    },
+
+    {
+        id: 267,
+        question: "What is Tend to sb/sth ?",
+        word: "Tend to sb/sth",
+        answers: [
+            {
+                id: 267,
+                correct: true,
+                content: "Có khuynh hướng/ Hướng đến",
+                type: "Có khuynh hướng/ Hướng đến "
+            }
+        ]
+    },
+
+    {
+        id: 268,
+        question: "What is Vulnerable ?",
+        word: "Vulnerable",
+        answers: [
+            {
+                id: 268,
+                correct: true,
+                content: "Dễ bị tổn thương",
+                type: "Dễ bị tổn thương "
+            }
+        ]
+    },
+
+    {
+        id: 269,
+        question: "What is Pregnancy ?",
+        word: "Pregnancy",
+        answers: [
+            {
+                id: 269,
+                correct: true,
+                content: "Thời kỳ mang thai",
+                type: "Thời kỳ mang thai "
+            }
+        ]
+    },
+
+    {
+        id: 270,
+        question: "What is Osteoporosis ?",
+        word: "Osteoporosis",
+        answers: [
+            {
+                id: 270,
+                correct: true,
+                content: "Loãng xương",
+                type: "Loãng xương "
+            }
+        ]
+    },
+
+    {
+        id: 271,
+        question: "What is Miserable ?",
+        word: "Miserable",
+        answers: [
+            {
+                id: 271,
+                correct: true,
+                content: "Khổ sở",
+                type: "Khổ sở "
+            }
+        ]
+    },
+
+    {
+        id: 272,
+        question: "What is Vicious circle ?",
+        word: "Vicious circle",
+        answers: [
+            {
+                id: 272,
+                correct: true,
+                content: "Vòng luẩn quẩn",
+                type: "Vòng luẩn quẩn "
+            }
+        ]
+    },
+
+    {
+        id: 273,
+        question: "What is Painkiller ?",
+        word: "Painkiller",
+        answers: [
+            {
+                id: 273,
+                correct: true,
+                content: "Thuốc giảm đau",
+                type: "Thuốc giảm đau "
+            }
+        ]
+    },
+
+    {
+        id: 274,
+        question: "What is Unique ?",
+        word: "Unique",
+        answers: [
+            {
+                id: 274,
+                correct: true,
+                content: "Độc nhất",
+                type: "Độc nhất "
+            }
+        ]
+    },
+
+    {
+        id: 275,
+        question: "What is Specialist ?",
+        word: "Specialist",
+        answers: [
+            {
+                id: 275,
+                correct: true,
+                content: "Chuyên gia",
+                type: "Chuyên gia "
+            }
+        ]
+    },
+
+    {
+        id: 276,
+        question: "What is Mishandle ?",
+        word: "Mishandle",
+        answers: [
+            {
+                id: 276,
+                correct: true,
+                content: "Xử lý lỗi sai",
+                type: "Xử lý lỗi sai "
+            }
+        ]
+    },
+
+    {
+        id: 277,
+        question: "What is Menace ?",
+        word: "Menace",
+        answers: [
+            {
+                id: 277,
+                correct: true,
+                content: "Mối đe dọa, nguy hại",
+                type: "Mối đe dọa, nguy hại "
+            }
+        ]
+    },
+
+    {
+        id: 278,
+        question: "What is Strain ?",
+        word: "Strain",
+        answers: [
+            {
+                id: 278,
+                correct: true,
+                content: "Sự căng thẳng, quá tải",
+                type: "Sự căng thẳng, quá tải "
+            }
+        ]
+    },
+
+    {
+        id: 279,
+        question: "What is Counterproductive ?",
+        word: "Counterproductive",
+        answers: [
+            {
+                id: 279,
+                correct: true,
+                content: "Phản tác dụng",
+                type: "Phản tác dụng "
+            }
+        ]
+    },
+
+    {
+        id: 280,
+        question: "What is Attempt ?",
+        word: "Attempt",
+        answers: [
+            {
+                id: 280,
+                correct: true,
+                content: "Cố gắng, nỗ lực",
+                type: "Cố gắng, nỗ lực "
+            }
+        ]
+    },
+
+    {
+        id: 281,
+        question: "What is Immobile ?",
+        word: "Immobile",
+        answers: [
+            {
+                id: 281,
+                correct: true,
+                content: "Bất động",
+                type: "Bất động "
+            }
+        ]
+    },
+
+    {
+        id: 282,
+        question: "What is Muscle ?",
+        word: "Muscle",
+        answers: [
+            {
+                id: 282,
+                correct: true,
+                content: "Cơ bắp",
+                type: "Cơ bắp "
+            }
+        ]
+    },
+
+    {
+        id: 283,
+        question: "What is Tense up ?",
+        word: "Tense up",
+        answers: [
+            {
+                id: 283,
+                correct: true,
+                content: "Căng (cứng) lên",
+                type: "Căng (cứng) lên "
+            }
+        ]
+    },
+
+    {
+        id: 284,
+        question: "What is Spasm ?",
+        word: "Spasm",
+        answers: [
+            {
+                id: 284,
+                correct: true,
+                content: "Co thắt",
+                type: "Co thắt "
+            }
+        ]
+    },
+
+    {
+        id: 285,
+        question: "What is Twist ?",
+        word: "Twist",
+        answers: [
+            {
+                id: 285,
+                correct: true,
+                content: "Vặn xoắn",
+                type: "Vặn xoắn "
+            }
+        ]
+    },
+
+    {
+        id: 286,
+        question: "What is Spine ?",
+        word: "Spine",
+        answers: [
+            {
+                id: 286,
+                correct: true,
+                content: "Xương sống",
+                type: "Xương sống "
+            }
+        ]
+    },
+
+    {
+        id: 287,
+        question: "What is Blame ?",
+        word: "Blame",
+        answers: [
+            {
+                id: 287,
+                correct: true,
+                content: "Đổ lỗi",
+                type: "Đổ lỗi "
+            }
+        ]
+    },
+
+    {
+        id: 288,
+        question: "What is Aggravation ?",
+        word: "Aggravation",
+        answers: [
+            {
+                id: 288,
+                correct: true,
+                content: "Làm trầm trọng thêm",
+                type: "Làm trầm trọng thêm "
+            }
+        ]
+    },
+
+    {
+        id: 289,
+        question: "What is Slouch ?",
+        word: "Slouch",
+        answers: [
+            {
+                id: 289,
+                correct: true,
+                content: "Ngồi gù lưng về phía  trước",
+                type: "Ngồi gù lưng về phía  trước "
+            }
+        ]
+    },
+
+    {
+        id: 290,
+        question: "What is Orthopaedic ?",
+        word: "Orthopaedic",
+        answers: [
+            {
+                id: 290,
+                correct: true,
+                content: "Chỉnh hình",
+                type: "Chỉnh hình "
+            }
+        ]
+    },
+
+    {
+        id: 291,
+        question: "What is Posture ?",
+        word: "Posture",
+        answers: [
+            {
+                id: 291,
+                correct: true,
+                content: "Tư thế",
+                type: "Tư thế "
+            }
+        ]
+    },
+
+    {
+        id: 292,
+        question: "What is Enemy ?",
+        word: "Enemy",
+        answers: [
+            {
+                id: 292,
+                correct: true,
+                content: "Kẻ thù",
+                type: "Kẻ thù "
+            }
+        ]
+    },
+
+    {
+        id: 293,
+        question: "What is Ligament ?",
+        word: "Ligament",
+        answers: [
+            {
+                id: 293,
+                correct: true,
+                content: "Dây chằng",
+                type: "Dây chằng "
+            }
+        ]
+    },
+
+    {
+        id: 294,
+        question: "What is Alignment ?",
+        word: "Alignment",
+        answers: [
+            {
+                id: 294,
+                correct: true,
+                content: "Điều chỉnh ngay ngắn",
+                type: "Điều chỉnh ngay ngắn "
+            }
+        ]
+    },
+
+    {
+        id: 295,
+        question: "What is Ache ?",
+        word: "Ache",
+        answers: [
+            {
+                id: 295,
+                correct: true,
+                content: "Đau đớn, nhức nhối",
+                type: "Đau đớn, nhức nhối "
+            }
+        ]
+    },
+
+    {
+        id: 296,
+        question: "What is Mattress ?",
+        word: "Mattress",
+        answers: [
+            {
+                id: 296,
+                correct: true,
+                content: "Tấm nệm",
+                type: "Tấm nệm "
+            }
+        ]
+    },
+
+    {
+        id: 297,
+        question: "What is Spring slatted bed ?",
+        word: "Spring slatted bed",
+        answers: [
+            {
+                id: 297,
+                correct: true,
+                content: "Giường lò xo",
+                type: "Giường lò xo "
+            }
+        ]
+    },
+
+    {
+        id: 298,
+        question: "What is Hazard ?",
+        word: "Hazard",
+        answers: [
+            {
+                id: 298,
+                correct: true,
+                content: "Mối nguy hiểm",
+                type: "Mối nguy hiểm "
+            }
+        ]
+    },
+
+    {
+        id: 299,
+        question: "What is Absorb ?",
+        word: "Absorb",
+        answers: [
+            {
+                id: 299,
+                correct: true,
+                content: "Hấp thụ",
+                type: "Hấp thụ "
+            }
+        ]
+    },
+
+    {
+        id: 300,
+        question: "What is State-of-the-art ?",
+        word: "State-of-the-art",
+        answers: [
+            {
+                id: 300,
+                correct: true,
+                content: "Hiện đại nhất",
+                type: "Hiện đại nhất "
+            }
+        ]
+    },
+
+    {
+        id: 301,
+        question: "What is Gadget ?",
+        word: "Gadget",
+        answers: [
+            {
+                id: 301,
+                correct: true,
+                content: "Thiết bị",
+                type: "Thiết bị "
+            }
+        ]
+    },
+
+    {
+        id: 302,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 302,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 303,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 303,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 304,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 304,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 305,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 305,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 306,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 306,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 307,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 307,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 308,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 308,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 309,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 309,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 310,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 310,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 311,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 311,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
+            }
+        ]
+    },
+
+    {
+        id: 312,
+        question: "What is TESTTTTTTTTTTTTTT ?",
+        word: "TESTTTTTTTTTTTTTT",
+        answers: [
+            {
+                id: 312,
+                correct: true,
+                content: "TESTTTTTTTTTTTTTT",
+                type: "TESTTTTTTTTTTTTTT "
             }
         ]
     },
