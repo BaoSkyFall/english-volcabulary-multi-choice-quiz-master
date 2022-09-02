@@ -1,4 +1,4 @@
-wvar quizQuestions = [
+var quizQuestions = [
     {
         id: 1,
         question: "What is Practical?",
@@ -4177,7 +4177,6 @@ wvar quizQuestions = [
             }
         ]
     },
-
     {
         id: 312,
         question: "What is Destiny ?",
