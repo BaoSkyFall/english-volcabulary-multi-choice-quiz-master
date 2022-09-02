@@ -14,7 +14,7 @@ function Quiz(props) {
         answerType={key.type}
         answer={props.answer}
         questionId={props.questionId}
-        onAnswerSelected={() => props.onAnswerSelected(key)}
+        onAnswerSelected={() => props.onAnswerSelected({ anserSelected: key, question: props })}
       />
     );
   }

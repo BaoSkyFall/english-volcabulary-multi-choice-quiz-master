@@ -164,7 +164,7 @@ class App extends Component {
 
   handleAnswerSelected(event) {
     this.setUserAnswer(event);
-
+    console.log('event:', event)
     if (this.state.questionId < this.quizQuestionsGenerate.length) {
       setTimeout(() => this.setNextQuestion(), 300);
     } else {
@@ -172,13 +172,15 @@ class App extends Component {
     }
   }
 
-  setUserAnswer(answer) {
+  setUserAnswer(data) {
+    const answer = data.anserSelected;
+    const question = data.question
     this.setState((state, props) => ({
       answersCount: {
         ...state.answersCount,
         [answer.content]: (state.answersCount[answer.content] || 0) + 1
       },
-      totalAnswersUser: [...state.totalAnswersUser, answer],
+      totalAnswersUser: [...state.totalAnswersUser, { anserSelected: answer, question }],
       answer: answer.content
     }));
   }
@@ -199,7 +201,7 @@ class App extends Component {
 
   getResults() {
     const answersCount = Object.keys(this.state.answersCount).length;
-    const totalAnswerCorrect = this.state.totalAnswersUser.filter(item => item.correct).length;
+    const totalAnswerCorrect = this.state.totalAnswersUser.map(item => item.anserSelected).filter(item => item.correct).length;
     const percentCorrect = parseFloat((totalAnswerCorrect / answersCount) * 100).toFixed(2);;
     const result = {
       answersCount,
@@ -247,6 +249,8 @@ class App extends Component {
       question: this.quizQuestionsGenerate[0].question,
       answerOptions: this.quizQuestionsGenerate[0].answers
     });
+    window.location.reload();
+
   }
   handleCancel() {
     this.setState({ isModalVisible: false })
