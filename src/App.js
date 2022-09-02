@@ -137,7 +137,7 @@ class App extends Component {
     console.log(values);
   };
   randomWrongAnswer(questionItem) {
-    const answerWrong = _.sample(_.filter(this.quizQuestionsCore, item => {
+    const answerWrong = _.sample(_.filter(_.slice(this.quizQuestionsCore, this.state.range[0] * 10, this.state.range[1] * 10), item => {
       return !questionItem.answers.map(item => item.id).includes(item.id)
     }))
     answerWrong.answers[0].correct = false;
@@ -327,7 +327,7 @@ class App extends Component {
                 },
               ]}
             >
-              <Slider range marks={marks} step={10}
+              <Slider range marks={marks}
                 onChange={this.onChangeSlideRangeQuestions}
                 defaultValue={[0, 10]} />
             </Form.Item>
