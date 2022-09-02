@@ -2608,7 +2608,7 @@ wvar quizQuestions = [
                 id: 200,
                 correct: true,
                 content: "Người đá (trong một đội  bóng) hoặc một điều gì  gây ngạc nhiên, bất ngờ. Dụng cụ kích nâng, Chân ghế",
-                type: "Người đá (trong một đội  bóng) hoặc một điều gì  gây ngạc nhiên, bất ngờ. Dụng cụ kích nâng, Chân ghế "
+                type: "Người đá (trong một đội  bóng) hoặc một điều gì  gây ngạc nhiên, bất ngờ. Dụng cụ kích nâng, Chân ghế"
             }
         ]
     },
@@ -2621,7 +2621,7 @@ wvar quizQuestions = [
                 id: 201,
                 correct: true,
                 content: "Đụng xe / Đánh đập",
-                type: "Đụng xe / Đánh đập "
+                type: "Đụng xe / Đánh đập"
             }
         ]
     },
@@ -2634,7 +2634,7 @@ wvar quizQuestions = [
                 id: 313,
                 correct: true,
                 content: "Vật chất (vật lý)",
-                type: "Vật chất (vật lý) "
+                type: "Vật chất (vật lý)"
             }
         ]
     },
@@ -2647,7 +2647,7 @@ wvar quizQuestions = [
                 id: 314,
                 correct: true,
                 content: "Minh họa, thể hiện",
-                type: "Minh họa, thể hiện "
+                type: "Minh họa, thể hiện"
             }
         ]
     },
@@ -2661,7 +2661,7 @@ wvar quizQuestions = [
                 id: 315,
                 correct: true,
                 content: "Phiếu giảm giá",
-                type: "Phiếu giảm giá "
+                type: "Phiếu giảm giá"
             }
         ]
     },
@@ -2675,7 +2675,7 @@ wvar quizQuestions = [
                 id: 204,
                 correct: true,
                 content: "Bắt đầu từ con số 0",
-                type: "Bắt đầu từ con số 0 "
+                type: "Bắt đầu từ con số 0"
             }
         ]
     },
@@ -2689,7 +2689,7 @@ wvar quizQuestions = [
                 id: 205,
                 correct: true,
                 content: "Mong đợi",
-                type: "Mong đợi "
+                type: "Mong đợi"
             }
         ]
     },
@@ -2703,7 +2703,7 @@ wvar quizQuestions = [
                 id: 206,
                 correct: true,
                 content: "Hẹn khám răng, hẹn  nha khoa",
-                type: "Hẹn khám răng, hẹn  nha khoa "
+                type: "Hẹn khám răng, hẹn  nha khoa"
             }
         ]
     },
@@ -2717,7 +2717,7 @@ wvar quizQuestions = [
                 id: 207,
                 correct: true,
                 content: "Bị chìm, bị chết đuối,  đuối nước",
-                type: "Bị chìm, bị chết đuối,  đuối nước "
+                type: "Bị chìm, bị chết đuối,  đuối nước"
             }
         ]
     },
@@ -2731,7 +2731,7 @@ wvar quizQuestions = [
                 id: 208,
                 correct: true,
                 content: "Tắm nắng",
-                type: "Tắm nắng "
+                type: "Tắm nắng"
             }
         ]
     },
@@ -2745,7 +2745,7 @@ wvar quizQuestions = [
                 id: 209,
                 correct: true,
                 content: "Họp trực tuyến",
-                type: "Họp trực tuyến "
+                type: "Họp trực tuyến"
             }
         ]
     },
@@ -2759,7 +2759,7 @@ wvar quizQuestions = [
                 id: 210,
                 correct: true,
                 content: "Dự báo, dự đoán",
-                type: "Dự báo, dự đoán "
+                type: "Dự báo, dự đoán"
             }
         ]
     },
@@ -2773,7 +2773,7 @@ wvar quizQuestions = [
                 id: 211,
                 correct: true,
                 content: "Trung tâm thành phố",
-                type: "Trung tâm thành phố "
+                type: "Trung tâm thành phố"
             }
         ]
     },
@@ -2787,7 +2787,7 @@ wvar quizQuestions = [
                 id: 212,
                 correct: true,
                 content: "Xin chúc mừng, lời chúc  mừng",
-                type: "Xin chúc mừng, lời chúc  mừng "
+                type: "Xin chúc mừng, lời chúc  mừng"
             }
         ]
     },
@@ -2801,7 +2801,7 @@ wvar quizQuestions = [
                 id: 213,
                 correct: true,
                 content: "Đề nghị làm việc",
-                type: "Đề nghị làm việc "
+                type: "Đề nghị làm việc"
             }
         ]
     },
@@ -2815,7 +2815,7 @@ wvar quizQuestions = [
                 id: 214,
                 correct: true,
                 content: "Tiền lương",
-                type: "Tiền lương "
+                type: "Tiền lương"
             }
         ]
     },
@@ -2829,7 +2829,7 @@ wvar quizQuestions = [
                 id: 215,
                 correct: true,
                 content: "Công ty xuất bản, nhà  xuất bản",
-                type: "Công ty xuất bản, nhà  xuất bản "
+                type: "Công ty xuất bản, nhà  xuất bản"
             }
         ]
     },
@@ -2843,7 +2843,7 @@ wvar quizQuestions = [
                 id: 216,
                 correct: true,
                 content: "Bạn đang làm gì (hỏi  nghề nghiệp) ?",
-                type: "Bạn đang làm gì (hỏi  nghề nghiệp) ? "
+                type: "Bạn đang làm gì (hỏi  nghề nghiệp) ?"
             }
         ]
     },
@@ -2857,7 +2857,7 @@ wvar quizQuestions = [
                 id: 217,
                 correct: true,
                 content: "Bác sĩ chỉnh hình",
-                type: "Bác sĩ chỉnh hình "
+                type: "Bác sĩ chỉnh hình"
             }
         ]
     },
@@ -2871,7 +2871,7 @@ wvar quizQuestions = [
                 id: 218,
                 correct: true,
                 content: "Trường y",
-                type: "Trường y "
+                type: "Trường y"
             }
         ]
     },
@@ -2885,7 +2885,7 @@ wvar quizQuestions = [
                 id: 219,
                 correct: true,
                 content: "Kiếm tiền",
-                type: "Kiếm tiền "
+                type: "Kiếm tiền"
             }
         ]
     },
@@ -2899,7 +2899,7 @@ wvar quizQuestions = [
                 id: 220,
                 correct: true,
                 content: "Rất nhiều tiền",
-                type: "Rất nhiều tiền "
+                type: "Rất nhiều tiền"
             }
         ]
     },
@@ -2913,7 +2913,7 @@ wvar quizQuestions = [
                 id: 221,
                 correct: true,
                 content: "Thuộc về dược",
-                type: "Thuộc về dược "
+                type: "Thuộc về dược"
             }
         ]
     },
@@ -2927,7 +2927,7 @@ wvar quizQuestions = [
                 id: 222,
                 correct: true,
                 content: "Dược phẩm",
-                type: "Dược phẩm "
+                type: "Dược phẩm"
             }
         ]
     },
@@ -2941,7 +2941,7 @@ wvar quizQuestions = [
                 id: 223,
                 correct: true,
                 content: "Một vài / Hai",
-                type: "Một vài / Hai "
+                type: "Một vài / Hai"
             }
         ]
     },
@@ -2955,7 +2955,7 @@ wvar quizQuestions = [
                 id: 224,
                 correct: true,
                 content: "Biểu thị sự kinh ngạc",
-                type: "Biểu thị sự kinh ngạc "
+                type: "Biểu thị sự kinh ngạc"
             }
         ]
     },
@@ -2969,7 +2969,7 @@ wvar quizQuestions = [
                 id: 225,
                 correct: true,
                 content: "Có thể mua được, chi  trả được",
-                type: "Có thể mua được, chi  trả được "
+                type: "Có thể mua được, chi  trả được"
             }
         ]
     },
@@ -2982,8 +2982,8 @@ wvar quizQuestions = [
             {
                 id: 226,
                 correct: true,
-                content: "Ổn định (ý là ở lại một  vài nơi trong một khoảng thời gian)",
-                type: "Ổn định (ý là ở lại một  vài nơi trong một khoảng thời gian)"
+                content: "Ổn định Định cư",
+                type: "Ổn định Định cư"
             }
         ]
     },
@@ -2997,7 +2997,7 @@ wvar quizQuestions = [
                 id: 227,
                 correct: true,
                 content: "Sang trọng (xa xỉ)",
-                type: "Sang trọng (xa xỉ) "
+                type: "Sang trọng (xa xỉ)"
             }
         ]
     },
@@ -3011,7 +3011,7 @@ wvar quizQuestions = [
                 id: 228,
                 correct: true,
                 content: "Cạnh tranh, ganh đua",
-                type: "Cạnh tranh, ganh đua "
+                type: "Cạnh tranh, ganh đua"
             }
         ]
     },
@@ -3025,7 +3025,7 @@ wvar quizQuestions = [
                 id: 229,
                 correct: true,
                 content: "Tờ báo",
-                type: "Tờ báo "
+                type: "Tờ báo"
             }
         ]
     },
@@ -3039,7 +3039,7 @@ wvar quizQuestions = [
                 id: 230,
                 correct: true,
                 content: "Khao khát, thèm muốn,  yêu thích",
-                type: "Khao khát, thèm muốn,  yêu thích "
+                type: "Khao khát, thèm muốn,  yêu thích"
             }
         ]
     },
@@ -3053,7 +3053,7 @@ wvar quizQuestions = [
                 id: 231,
                 correct: true,
                 content: "Báo chí",
-                type: "Báo chí "
+                type: "Báo chí"
             }
         ]
     },
@@ -3067,7 +3067,7 @@ wvar quizQuestions = [
                 id: 232,
                 correct: true,
                 content: "Khối lượng công việc",
-                type: "Khối lượng công việc "
+                type: "Khối lượng công việc"
             }
         ]
     },
@@ -3081,7 +3081,7 @@ wvar quizQuestions = [
                 id: 233,
                 correct: true,
                 content: "Học phí",
-                type: "Học phí "
+                type: "Học phí"
             }
         ]
     },
@@ -3102,14 +3102,14 @@ wvar quizQuestions = [
 
     {
         id: 235,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Subliminal electrical pulses ?",
+        word: "Subliminal electrical pulses",
         answers: [
             {
                 id: 235,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Siêu xung điện",
+                type: "Siêu xung điện"
             }
         ]
     },
@@ -3122,8 +3122,8 @@ wvar quizQuestions = [
             {
                 id: 236,
                 correct: true,
-                content: "Gây khó chịu, ảnh ",
-                type: "hưởng xấu "
+                content: "Gây khó chịu, ảnh",
+                type: "hưởng xấu"
             }
         ]
     },
@@ -3151,7 +3151,7 @@ wvar quizQuestions = [
                 id: 238,
                 correct: true,
                 content: "Rõ ràng",
-                type: "Rõ ràng "
+                type: "Rõ ràng"
             }
         ]
     },
@@ -3165,7 +3165,7 @@ wvar quizQuestions = [
                 id: 239,
                 correct: true,
                 content: "Lính cứu hỏa",
-                type: "Lính cứu hỏa "
+                type: "Lính cứu hỏa"
             }
         ]
     },
@@ -3179,7 +3179,7 @@ wvar quizQuestions = [
                 id: 240,
                 correct: true,
                 content: "Dập lửa",
-                type: "Dập lửa "
+                type: "Dập lửa"
             }
         ]
     },
@@ -3193,7 +3193,7 @@ wvar quizQuestions = [
                 id: 241,
                 correct: true,
                 content: "Sông băng",
-                type: "Sông băng "
+                type: "Sông băng"
             }
         ]
     },
@@ -3207,7 +3207,7 @@ wvar quizQuestions = [
                 id: 242,
                 correct: true,
                 content: "Thành thực thì",
-                type: "Thành thực thì "
+                type: "Thành thực thì"
             }
         ]
     },
@@ -3221,7 +3221,7 @@ wvar quizQuestions = [
                 id: 243,
                 correct: true,
                 content: "Nóng vl",
-                type: "Nóng vl "
+                type: "Nóng vl"
             }
         ]
     },
@@ -3235,7 +3235,7 @@ wvar quizQuestions = [
                 id: 244,
                 correct: true,
                 content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                type: "TESTTTTTTTTTTTTTT"
             }
         ]
     },
@@ -3249,7 +3249,7 @@ wvar quizQuestions = [
                 id: 245,
                 correct: true,
                 content: "Bởi vì",
-                type: "Bởi vì "
+                type: "Bởi vì"
             }
         ]
     },
@@ -3263,7 +3263,7 @@ wvar quizQuestions = [
                 id: 246,
                 correct: true,
                 content: "Đến bạn",
-                type: "Đến bạn "
+                type: "Đến bạn"
             }
         ]
     },
@@ -3277,7 +3277,7 @@ wvar quizQuestions = [
                 id: 247,
                 correct: true,
                 content: "Khí nhà kính",
-                type: "Khí nhà kính "
+                type: "Khí nhà kính"
             }
         ]
     },
@@ -3291,7 +3291,7 @@ wvar quizQuestions = [
                 id: 248,
                 correct: true,
                 content: "Sự tác động, động lực",
-                type: "Sự tác động, động lực "
+                type: "Sự tác động, động lực"
             }
         ]
     },
@@ -3305,7 +3305,7 @@ wvar quizQuestions = [
                 id: 249,
                 correct: true,
                 content: "Theo chu kỳ",
-                type: "Theo chu kỳ "
+                type: "Theo chu kỳ"
             }
         ]
     },
@@ -3319,7 +3319,7 @@ wvar quizQuestions = [
                 id: 250,
                 correct: true,
                 content: "Bằng chứng",
-                type: "Bằng chứng "
+                type: "Bằng chứng"
             }
         ]
     },
@@ -3333,7 +3333,7 @@ wvar quizQuestions = [
                 id: 251,
                 correct: true,
                 content: "Đổ lỗi; quy trách nhiệm  cho ai",
-                type: "Đổ lỗi; quy trách nhiệm  cho ai "
+                type: "Đổ lỗi; quy trách nhiệm  cho ai"
             }
         ]
     },
@@ -3347,7 +3347,7 @@ wvar quizQuestions = [
                 id: 252,
                 correct: true,
                 content: "Thiếu trách nhiệm",
-                type: "Thiếu trách nhiệm "
+                type: "Thiếu trách nhiệm"
             }
         ]
     },
@@ -3361,7 +3361,7 @@ wvar quizQuestions = [
                 id: 253,
                 correct: true,
                 content: "Phổ biến rộng rãi",
-                type: "Phổ biến rộng rãi "
+                type: "Phổ biến rộng rãi"
             }
         ]
     },
@@ -3375,7 +3375,7 @@ wvar quizQuestions = [
                 id: 254,
                 correct: true,
                 content: "Tranh luận",
-                type: "Tranh luận "
+                type: "Tranh luận"
             }
         ]
     },
@@ -3389,7 +3389,7 @@ wvar quizQuestions = [
                 id: 255,
                 correct: true,
                 content: "Hạn hán; khô cạn",
-                type: "Hạn hán; khô cạn "
+                type: "Hạn hán; khô cạn"
             }
         ]
     },
@@ -3403,7 +3403,7 @@ wvar quizQuestions = [
                 id: 256,
                 correct: true,
                 content: "Mất mùa",
-                type: "Mất mùa "
+                type: "Mất mùa"
             }
         ]
     },
@@ -3417,7 +3417,7 @@ wvar quizQuestions = [
                 id: 257,
                 correct: true,
                 content: "Khan hiếm",
-                type: "Khan hiếm "
+                type: "Khan hiếm"
             }
         ]
     },
@@ -3431,7 +3431,7 @@ wvar quizQuestions = [
                 id: 258,
                 correct: true,
                 content: "Có ảnh hưởng đến",
-                type: "Có ảnh hưởng đến "
+                type: "Có ảnh hưởng đến"
             }
         ]
     },
@@ -3445,7 +3445,7 @@ wvar quizQuestions = [
                 id: 259,
                 correct: true,
                 content: "Biến mất",
-                type: "Biến mất "
+                type: "Biến mất"
             }
         ]
     },
@@ -3459,7 +3459,7 @@ wvar quizQuestions = [
                 id: 260,
                 correct: true,
                 content: "Nghi ngờ",
-                type: "Nghi ngờ "
+                type: "Nghi ngờ"
             }
         ]
     },
@@ -3473,7 +3473,7 @@ wvar quizQuestions = [
                 id: 261,
                 correct: true,
                 content: "Có điểm chung, tương  đồng",
-                type: "Có điểm chung, tương  đồng "
+                type: "Có điểm chung, tương  đồng"
             }
         ]
     },
@@ -3487,7 +3487,7 @@ wvar quizQuestions = [
                 id: 262,
                 correct: true,
                 content: "Chịu đựng; bị (bệnh)",
-                type: "Chịu đựng; bị (bệnh) "
+                type: "Chịu đựng; bị (bệnh)"
             }
         ]
     },
@@ -3501,7 +3501,7 @@ wvar quizQuestions = [
                 id: 263,
                 correct: true,
                 content: "Kéo dài / kinh niên",
-                type: "Kéo dài / kinh niên "
+                type: "Kéo dài / kinh niên"
             }
         ]
     },
@@ -3515,7 +3515,7 @@ wvar quizQuestions = [
                 id: 264,
                 correct: true,
                 content: "Mọi tầng lớp xã hội",
-                type: "Mọi tầng lớp xã hội "
+                type: "Mọi tầng lớp xã hội"
             }
         ]
     },
@@ -3529,7 +3529,7 @@ wvar quizQuestions = [
                 id: 265,
                 correct: true,
                 content: "Mất khả năng",
-                type: "Mất khả năng "
+                type: "Mất khả năng"
             }
         ]
     },
@@ -3543,7 +3543,7 @@ wvar quizQuestions = [
                 id: 266,
                 correct: true,
                 content: "Đa số",
-                type: "Đa số "
+                type: "Đa số"
             }
         ]
     },
@@ -3557,7 +3557,7 @@ wvar quizQuestions = [
                 id: 267,
                 correct: true,
                 content: "Có khuynh hướng/ Hướng đến",
-                type: "Có khuynh hướng/ Hướng đến "
+                type: "Có khuynh hướng/ Hướng đến"
             }
         ]
     },
@@ -3571,7 +3571,7 @@ wvar quizQuestions = [
                 id: 268,
                 correct: true,
                 content: "Dễ bị tổn thương",
-                type: "Dễ bị tổn thương "
+                type: "Dễ bị tổn thương"
             }
         ]
     },
@@ -3585,7 +3585,7 @@ wvar quizQuestions = [
                 id: 269,
                 correct: true,
                 content: "Thời kỳ mang thai",
-                type: "Thời kỳ mang thai "
+                type: "Thời kỳ mang thai"
             }
         ]
     },
@@ -3599,7 +3599,7 @@ wvar quizQuestions = [
                 id: 270,
                 correct: true,
                 content: "Loãng xương",
-                type: "Loãng xương "
+                type: "Loãng xương"
             }
         ]
     },
@@ -3613,7 +3613,7 @@ wvar quizQuestions = [
                 id: 271,
                 correct: true,
                 content: "Khổ sở",
-                type: "Khổ sở "
+                type: "Khổ sở"
             }
         ]
     },
@@ -3627,7 +3627,7 @@ wvar quizQuestions = [
                 id: 272,
                 correct: true,
                 content: "Vòng luẩn quẩn",
-                type: "Vòng luẩn quẩn "
+                type: "Vòng luẩn quẩn"
             }
         ]
     },
@@ -3641,7 +3641,7 @@ wvar quizQuestions = [
                 id: 273,
                 correct: true,
                 content: "Thuốc giảm đau",
-                type: "Thuốc giảm đau "
+                type: "Thuốc giảm đau"
             }
         ]
     },
@@ -3655,7 +3655,7 @@ wvar quizQuestions = [
                 id: 274,
                 correct: true,
                 content: "Độc nhất",
-                type: "Độc nhất "
+                type: "Độc nhất"
             }
         ]
     },
@@ -3669,7 +3669,7 @@ wvar quizQuestions = [
                 id: 275,
                 correct: true,
                 content: "Chuyên gia",
-                type: "Chuyên gia "
+                type: "Chuyên gia"
             }
         ]
     },
@@ -3683,7 +3683,7 @@ wvar quizQuestions = [
                 id: 276,
                 correct: true,
                 content: "Xử lý lỗi sai",
-                type: "Xử lý lỗi sai "
+                type: "Xử lý lỗi sai"
             }
         ]
     },
@@ -3697,7 +3697,7 @@ wvar quizQuestions = [
                 id: 277,
                 correct: true,
                 content: "Mối đe dọa, nguy hại",
-                type: "Mối đe dọa, nguy hại "
+                type: "Mối đe dọa, nguy hại"
             }
         ]
     },
@@ -3711,7 +3711,7 @@ wvar quizQuestions = [
                 id: 278,
                 correct: true,
                 content: "Sự căng thẳng, quá tải",
-                type: "Sự căng thẳng, quá tải "
+                type: "Sự căng thẳng, quá tải"
             }
         ]
     },
@@ -3725,7 +3725,7 @@ wvar quizQuestions = [
                 id: 279,
                 correct: true,
                 content: "Phản tác dụng",
-                type: "Phản tác dụng "
+                type: "Phản tác dụng"
             }
         ]
     },
@@ -3739,7 +3739,7 @@ wvar quizQuestions = [
                 id: 280,
                 correct: true,
                 content: "Cố gắng, nỗ lực",
-                type: "Cố gắng, nỗ lực "
+                type: "Cố gắng, nỗ lực"
             }
         ]
     },
@@ -3753,7 +3753,7 @@ wvar quizQuestions = [
                 id: 281,
                 correct: true,
                 content: "Bất động",
-                type: "Bất động "
+                type: "Bất động"
             }
         ]
     },
@@ -3767,7 +3767,7 @@ wvar quizQuestions = [
                 id: 282,
                 correct: true,
                 content: "Cơ bắp",
-                type: "Cơ bắp "
+                type: "Cơ bắp"
             }
         ]
     },
@@ -3781,7 +3781,7 @@ wvar quizQuestions = [
                 id: 283,
                 correct: true,
                 content: "Căng (cứng) lên",
-                type: "Căng (cứng) lên "
+                type: "Căng (cứng) lên"
             }
         ]
     },
@@ -3795,7 +3795,7 @@ wvar quizQuestions = [
                 id: 284,
                 correct: true,
                 content: "Co thắt",
-                type: "Co thắt "
+                type: "Co thắt"
             }
         ]
     },
@@ -3809,7 +3809,7 @@ wvar quizQuestions = [
                 id: 285,
                 correct: true,
                 content: "Vặn xoắn",
-                type: "Vặn xoắn "
+                type: "Vặn xoắn"
             }
         ]
     },
@@ -3823,7 +3823,7 @@ wvar quizQuestions = [
                 id: 286,
                 correct: true,
                 content: "Xương sống",
-                type: "Xương sống "
+                type: "Xương sống"
             }
         ]
     },
@@ -3837,7 +3837,7 @@ wvar quizQuestions = [
                 id: 287,
                 correct: true,
                 content: "Đổ lỗi",
-                type: "Đổ lỗi "
+                type: "Đổ lỗi"
             }
         ]
     },
@@ -3851,7 +3851,7 @@ wvar quizQuestions = [
                 id: 288,
                 correct: true,
                 content: "Làm trầm trọng thêm",
-                type: "Làm trầm trọng thêm "
+                type: "Làm trầm trọng thêm"
             }
         ]
     },
@@ -3865,7 +3865,7 @@ wvar quizQuestions = [
                 id: 289,
                 correct: true,
                 content: "Ngồi gù lưng về phía  trước",
-                type: "Ngồi gù lưng về phía  trước "
+                type: "Ngồi gù lưng về phía  trước"
             }
         ]
     },
@@ -3879,7 +3879,7 @@ wvar quizQuestions = [
                 id: 290,
                 correct: true,
                 content: "Chỉnh hình",
-                type: "Chỉnh hình "
+                type: "Chỉnh hình"
             }
         ]
     },
@@ -3893,7 +3893,7 @@ wvar quizQuestions = [
                 id: 291,
                 correct: true,
                 content: "Tư thế",
-                type: "Tư thế "
+                type: "Tư thế"
             }
         ]
     },
@@ -3907,7 +3907,7 @@ wvar quizQuestions = [
                 id: 292,
                 correct: true,
                 content: "Kẻ thù",
-                type: "Kẻ thù "
+                type: "Kẻ thù"
             }
         ]
     },
@@ -3921,7 +3921,7 @@ wvar quizQuestions = [
                 id: 293,
                 correct: true,
                 content: "Dây chằng",
-                type: "Dây chằng "
+                type: "Dây chằng"
             }
         ]
     },
@@ -3935,7 +3935,7 @@ wvar quizQuestions = [
                 id: 294,
                 correct: true,
                 content: "Điều chỉnh ngay ngắn",
-                type: "Điều chỉnh ngay ngắn "
+                type: "Điều chỉnh ngay ngắn"
             }
         ]
     },
@@ -3949,7 +3949,7 @@ wvar quizQuestions = [
                 id: 295,
                 correct: true,
                 content: "Đau đớn, nhức nhối",
-                type: "Đau đớn, nhức nhối "
+                type: "Đau đớn, nhức nhối"
             }
         ]
     },
@@ -3963,7 +3963,7 @@ wvar quizQuestions = [
                 id: 296,
                 correct: true,
                 content: "Tấm nệm",
-                type: "Tấm nệm "
+                type: "Tấm nệm"
             }
         ]
     },
@@ -3977,7 +3977,7 @@ wvar quizQuestions = [
                 id: 297,
                 correct: true,
                 content: "Giường lò xo",
-                type: "Giường lò xo "
+                type: "Giường lò xo"
             }
         ]
     },
@@ -3991,7 +3991,7 @@ wvar quizQuestions = [
                 id: 298,
                 correct: true,
                 content: "Mối nguy hiểm",
-                type: "Mối nguy hiểm "
+                type: "Mối nguy hiểm"
             }
         ]
     },
@@ -4005,7 +4005,7 @@ wvar quizQuestions = [
                 id: 299,
                 correct: true,
                 content: "Hấp thụ",
-                type: "Hấp thụ "
+                type: "Hấp thụ"
             }
         ]
     },
@@ -4019,7 +4019,7 @@ wvar quizQuestions = [
                 id: 300,
                 correct: true,
                 content: "Hiện đại nhất",
-                type: "Hiện đại nhất "
+                type: "Hiện đại nhất"
             }
         ]
     },
@@ -4033,161 +4033,161 @@ wvar quizQuestions = [
                 id: 301,
                 correct: true,
                 content: "Thiết bị",
-                type: "Thiết bị "
+                type: "Thiết bị"
             }
         ]
     },
 
     {
         id: 302,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Old-fashioned ?",
+        word: "Old-fashioned ",
         answers: [
             {
                 id: 302,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Lỗi thời",
+                type: "Lỗi thời"
             }
         ]
     },
 
     {
         id: 303,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Remedy ?",
+        word: "Remedy ",
         answers: [
             {
                 id: 303,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Phương pháp cứu chữa",
+                type: "Phương pháp cứu chữa"
             }
         ]
     },
 
     {
         id: 304,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Heel ?",
+        word: "Heel ",
         answers: [
             {
                 id: 304,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Gót chân",
+                type: "Gót chân"
             }
         ]
     },
 
     {
         id: 305,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Diverse ?",
+        word: "Diverse ",
         answers: [
             {
                 id: 305,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Phong phú",
+                type: "Phong phú"
             }
         ]
     },
 
     {
         id: 306,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Core values ?",
+        word: "Core values ",
         answers: [
             {
                 id: 306,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Giá trị cốt lõi",
+                type: "Giá trị cốt lõi"
             }
         ]
     },
 
     {
         id: 307,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Norm ?",
+        word: "Norm ",
         answers: [
             {
                 id: 307,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Chuẩn mực; định mức",
+                type: "Chuẩn mực; định mức"
             }
         ]
     },
 
     {
         id: 308,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Individualism ?",
+        word: "Individualism ",
         answers: [
             {
                 id: 308,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Chủ nghĩa cá nhân",
+                type: "Chủ nghĩa cá nhân"
             }
         ]
     },
 
     {
         id: 309,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Sense of community ?",
+        word: "Sense of community",
         answers: [
             {
                 id: 309,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Tính cộng đồng",
+                type: "Tính cộng đồng"
             }
         ]
     },
 
     {
         id: 310,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Reliance ?",
+        word: "Reliance ",
         answers: [
             {
                 id: 310,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Sự phụ thuộc",
+                type: "Sự phụ thuộc"
             }
         ]
     },
 
     {
         id: 311,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Assume ?",
+        word: "Assume ",
         answers: [
             {
                 id: 311,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Giả định",
+                type: "Giả định"
             }
         ]
     },
 
     {
         id: 312,
-        question: "What is TESTTTTTTTTTTTTTT ?",
-        word: "TESTTTTTTTTTTTTTT",
+        question: "What is Destiny ?",
+        word: "Destiny ",
         answers: [
             {
                 id: 312,
                 correct: true,
-                content: "TESTTTTTTTTTTTTTT",
-                type: "TESTTTTTTTTTTTTTT "
+                content: "Định mệnh",
+                type: "Định mệnh"
             }
         ]
     },
